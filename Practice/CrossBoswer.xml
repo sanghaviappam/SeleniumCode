@@ -1,0 +1,9 @@
+
+<suite name="CrossBroswerTestSuite" parallel="test" thread-count="2">  
+  <test name="Test1">
+  <classes>
+  <class name="TestNGPractice.CrossBroswer"></class>
+  </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

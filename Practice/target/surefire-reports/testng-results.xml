@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-01T14:29:45 IST" name="CrossBroswerTestSuite" finished-at="2025-03-01T14:30:10 IST" duration-ms="25153">
+    <groups>
+    </groups>
+    <test started-at="2025-03-01T14:29:45 IST" name="Test1" finished-at="2025-03-01T14:30:10 IST" duration-ms="25153">
+      <class name="TestNGPractice.CrossBroswer">
+        <test-method signature="BrowsersSetUp()[pri:0, instance:TestNGPractice.CrossBroswer@53fe15ff]" started-at="2025-03-01T14:29:45 IST" name="BrowsersSetUp" finished-at="2025-03-01T14:29:52 IST" duration-ms="7660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowsersSetUp -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestNGPractice.CrossBroswer@53fe15ff]" started-at="2025-03-01T14:29:52 IST" name="CloseBrowser" finished-at="2025-03-01T14:29:53 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method signature="EdgeBroswer()[pri:0, instance:TestNGPractice.CrossBroswer@53fe15ff]" started-at="2025-03-01T14:29:53 IST" name="EdgeBroswer" finished-at="2025-03-01T14:30:08 IST" duration-ms="15677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBroswer -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestNGPractice.CrossBroswer@53fe15ff]" started-at="2025-03-01T14:30:08 IST" name="CloseBrowser" finished-at="2025-03-01T14:30:10 IST" duration-ms="1396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestNGPractice.CrossBroswer -->
+    </test> <!-- Test1 -->
+  </suite> <!-- CrossBroswerTestSuite -->
+</testng-results>
